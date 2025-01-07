@@ -1,8 +1,1 @@
-"# DevopsProject" 
-# DevopsProject
-# Devops_project
-# Devops_project
-# Devops_project
-# Devops_project
-# Devops_project
-# Bookinfo
+# Devops_Project
